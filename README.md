@@ -1,17 +1,28 @@
 # Dawit-Tegegn-Portfolio
-<h1 align="center">Hi 👋, I'm Dawit</h1>
-<h3 align="center">I am a Software Engineer with a civil Engineering background</h3>
+<h1>Hi 👋, I'm Dawit</h1>
+
+<h2>A Civil Engineer-Also-Software Engineer towards Re-inforced Digital Skills</h2>
+I am a Software Engineer with a civil Engineering background who is keen on solving complex problems. Drawing on my background in construction and engineering, I've cultivated a keen eye for detail and a methodical approach to fulfilling time-sensitive contractual obligations. I am a motivated self-starter and will bring solutions to problems. Also a construction/design professional with  more than 19 years of experience in a broad spectrum of highway construction/supervision & design.
+
+
+<h2>About Me</h2>
+ - I am based in the East coast, but interested to remote work anywhere in the US. <br>
+ 
+ - 📄 View my resume <a href="https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=drive_link&ouid=116684410929496186407&rtpof=true&sd=true">Here</a> <br>
+ 
+ - 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app) <br>
+
+ - 📝 I regularly write articles on [https://dawit-blog.netlify.app](https://dawit-blog.netlify.app)
+
 
 <h2>Portfolio Link 🔗</h2>
-👨‍💻 All of my projects are available at
-<a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> 
+
+👨‍💻 All of my projects are available at<a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> 
 
 
-- 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app)
 
-- 📝 I regularly write articles on [https://dawit-blog.netlify.app](https://dawit-blog.netlify.app)
 
-- 💬 Ask me about **react, python, Django, MongoDB, JavaScript, HTML, CSS, Django,**
+- 💬 Ask me about **react, python, Django, MongoDB, JavaScript, HTML, CSS**
 <h2>Contact Info</h2>
 
 - 📫 How to reach me <br><br>
