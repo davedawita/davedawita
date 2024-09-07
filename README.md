@@ -1,4 +1,3 @@
-# Dawit-Tegegn-Portfolio
 <h1>Hi 👋, I'm Dawit</h1>
 
 <h2>A Civil Engineer-Also-Software Engineer towards Re-inforced Digital Skills</h2>
@@ -21,6 +20,7 @@ I am a Software Engineer with a civil Engineering background who is keen on solv
 
 - 💬 Ask me about **react, python, Django, MongoDB, JavaScript, HTML, CSS**
 <h2>Contact Info</h2>
+
 
 - 📫 How to reach me <br><br>
    **Email: davedawita@yahoo.com, <br>
