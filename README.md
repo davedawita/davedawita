@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Dawit</h1>
 
-<h2>A Civil Engineer-Also-Software Engineer towards Re-inforced Digital Skills</h2>
+<h2>Software Engineer towards Re-inforced Digital Skills</h2>
 I am a Software Engineer with a civil Engineering background who is keen on solving complex problems. Drawing on my background in construction and engineering, I've cultivated a keen eye for detail and a methodical approach to fulfilling time-sensitive contractual obligations. I am a motivated self-starter and will bring solutions to problems. Also a construction/design professional with  more than 19 years of experience in a broad spectrum of highway construction/supervision & design.
 
 
